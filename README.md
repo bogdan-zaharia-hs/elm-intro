@@ -26,3 +26,5 @@ $ open http://localhost:8000
 - [The official docs](http://elm-lang.org/docs)
 - [Egghead.io course](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 - [Awesome Elm](https://github.com/isRuslan/awesome-elm)
+- [Elm Town Podcat](https://elmtown.github.io/)
+- [Elm Conf 2016 Videos](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd)
