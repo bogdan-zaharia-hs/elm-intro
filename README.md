@@ -7,10 +7,10 @@
 $ npm i -g elm
 ```
 That will install the following tools:
-    - elm-repl
-    - elm-make - for compiling elm files
-    - elm-reactor - a dev server
-    - elm-package - for managing packages
+- elm-repl
+- elm-make - for compiling elm files
+- elm-reactor - a dev server
+- elm-package - for managing packages
 
 For more details, as well as editor/IDE integrations, see [the `install` section of the guide](https://guide.elm-lang.org/install.html). Also note [elm-format](https://github.com/avh4/elm-format), which auto-formats your code according to the official styleguide.
 
