@@ -58,7 +58,7 @@ decodeStream : Decode.Decoder Post
 decodeStream =
     Decode.map2 Post
         (Decode.field "id" Decode.int)
-        (Decode.field "titles" Decode.string)
+        (Decode.field "title" Decode.string)
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
